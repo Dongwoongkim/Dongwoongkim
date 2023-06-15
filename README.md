@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="[https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699](https://simpleicons.org/icons/springboot.svg)"/>
+<img src="https://simpleicons.org/icons/springboot.svg&logoColor=6DB33F"/>
+
