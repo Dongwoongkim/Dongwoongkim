@@ -12,3 +12,6 @@
 	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kycasdzxc)](https://solved.ac/kdo6301)
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongwoongkim&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Dongwoongkim&show_icons=true">
