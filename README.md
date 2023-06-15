@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://simpleicons.org/icons/springboot.svg&logoColor=6DB33F"/>
-
+<img src="https://simpleicons.org/icons/springboot.svg"/>
