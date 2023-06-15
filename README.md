@@ -1,7 +1,6 @@
-<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dongwoongkim%20github.&fontSize=70)
-	</div>
-<div> ### 안녕하세요. Spring Framework를 이용해 RestAPI 개발을 하고 있습니다. </div>
+
+<div align=center> ### 안녕하세요. Spring Framework를 이용해 RestAPI 개발을 하고 있습니다. </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
