@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dongwoongkim%20github.&fontSize=70)
 
-<div align=center> <h2> 안녕하세요. 저는 Spring Framework를 이용한 RestAPI를 개발/공부하고 있습니다. </h2> </div>
+
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h2>📚 Tech Stack 📚</h2>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -11,7 +11,7 @@
 </div>
 <br>
 <div align=center>
-	<h3>🏆 Baekjoon solved rank 🏆</h3>
+	<h2>🏆 Baekjoon solved rank 🏆</h2>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdo6301)](https://solved.ac/kdo6301)
 	
