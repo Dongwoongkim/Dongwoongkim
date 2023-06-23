@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dongwoongkim%20github.&fontSize=70)
-
-
 <div align=center>
 	<h2>📚 Tech Stack 📚</h2>
 </div>
