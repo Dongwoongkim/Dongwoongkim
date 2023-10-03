@@ -12,12 +12,6 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdo6301)](https://solved.ac/kdo6301)
 	
-</div>
 
-<div align="center">
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dongwoongkim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongwoongkim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
 	</div>
 
